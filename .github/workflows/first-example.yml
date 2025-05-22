@@ -12,4 +12,4 @@ jobs:
           run: ls
 
         - name: Read Files
-          run: cat readme.md
+          run: cat README.md
