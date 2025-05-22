@@ -10,6 +10,3 @@ jobs:
 
         - name: List files
           run: ls
-
-        - name: Read Files
-          run: cat first-example.yml
